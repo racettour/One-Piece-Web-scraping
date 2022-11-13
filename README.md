@@ -4,7 +4,7 @@ this program informs me when a new episode is available
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  
-[![forthebadge](readme_Image/clean-up-in-process-95%.svg)](http://forthebadge.com)
+[![forthebadge](https://github.com/racettour/One-Piece-Web-scraping/blob/main/readme_Image/clean-up-in-process-95%25.svg)](http://forthebadge.com)
 
 ## :ledger: Index
 
